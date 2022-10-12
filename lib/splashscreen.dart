@@ -18,7 +18,7 @@ class _SplashscreenState extends State<Splashscreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xff010E15),
+      backgroundColor: Color(0xff010E14),
       body: Column(
         children: [
           BackgroundImage(),
